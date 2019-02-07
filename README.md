@@ -6,6 +6,12 @@ The objective of this project is to build a neural network generationg "fake" TV
 
 ## How to use?
 
+Download & install the latest verson of 'miniconda' to your machne
+
+- Linux: http://conda.pydata.org/docs/install/quick.html#linux-miniconda-install
+- Mac: http://conda.pydata.org/docs/install/quick.html#os-x-miniconda-install
+- Windows: http://conda.pydata.org/docs/install/quick.html#windows-miniconda-install
+
 ## Credits
 
 ## License
